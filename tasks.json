@@ -1,0 +1,10 @@
+{
+	"project_id": 1,
+	"tasks": [
+		{
+			"id": 0,
+			"file": "ndames.py",
+			"args": "5"
+		}
+	]
+}
